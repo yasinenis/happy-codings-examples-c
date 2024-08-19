@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Yasin\repositories\happy-codings-examples-c\example-01-06\main.cpp(8,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Yasin\repositories\happy-codings-examples-c\example-01-06\main.cpp(20,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Yasin\repositories\happy-codings-examples-c\example-01-06\main.cpp(26,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  example-01-06.vcxproj -> D:\Yasin\repositories\happy-codings-examples-c\x64\Debug\example-01-06.exe

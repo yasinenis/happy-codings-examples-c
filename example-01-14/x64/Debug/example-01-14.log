@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Yasin\repositories\happy-codings-examples-c\example-01-14\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Yasin\repositories\happy-codings-examples-c\example-01-14\main.cpp(21,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\Yasin\repositories\happy-codings-examples-c\example-01-14\main.cpp(21,13):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\Yasin\repositories\happy-codings-examples-c\example-01-14\main.cpp(21,13):
+  the missing variadic argument 2 is required by format string '%d'
+  
+  example-01-14.vcxproj -> D:\Yasin\repositories\happy-codings-examples-c\x64\Debug\example-01-14.exe
