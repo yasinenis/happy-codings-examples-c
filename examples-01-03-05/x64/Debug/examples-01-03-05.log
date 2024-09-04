@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Yasin\repositories\happy-codings-examples-c\examples-01-03-05\main.cpp(6,12): warning C4101: 'j': unreferenced local variable
+D:\Yasin\repositories\happy-codings-examples-c\examples-01-03-05\main.cpp(6,18): warning C4101: 't': unreferenced local variable
+  examples-01-03-05.vcxproj -> D:\Yasin\repositories\happy-codings-examples-c\x64\Debug\examples-01-03-05.exe
