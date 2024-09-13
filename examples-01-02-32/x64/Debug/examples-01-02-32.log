@@ -1,6 +1,1 @@
-﻿  main.cpp
-D:\Yasin\repositories\happy-codings-examples-c\examples-01-02-32\main.cpp(15,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-  D:\Yasin\repositories\happy-codings-examples-c\examples-01-02-32\main.cpp(15,9):
-  consider using '%zd' in the format string
-  
-  examples-01-02-32.vcxproj -> D:\Yasin\repositories\happy-codings-examples-c\x64\Debug\examples-01-02-32.exe
+﻿

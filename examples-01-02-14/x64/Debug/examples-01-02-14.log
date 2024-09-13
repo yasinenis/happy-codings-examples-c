@@ -1,12 +1,1 @@
-﻿  main.cpp
-D:\Yasin\repositories\happy-codings-examples-c\examples-01-02-14\main.cpp(134,12): warning C4473: 'scanf_s' : not enough arguments passed for format string
-  D:\Yasin\repositories\happy-codings-examples-c\examples-01-02-14\main.cpp(134,12):
-  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
-  D:\Yasin\repositories\happy-codings-examples-c\examples-01-02-14\main.cpp(134,12):
-  the missing variadic argument 2 is required by format string '%s'
-  D:\Yasin\repositories\happy-codings-examples-c\examples-01-02-14\main.cpp(134,12):
-  this argument is used as a buffer size
-  
-D:\Yasin\repositories\happy-codings-examples-c\examples-01-02-14\main.cpp(140,7): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-D:\Yasin\repositories\happy-codings-examples-c\examples-01-02-14\main.cpp(153,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Yasin\repositories\happy-codings-examples-c\examples-01-02-14\main.cpp(157,3): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+﻿
