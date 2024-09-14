@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Yasin\repositories\happy-codings-examples-c\examples-02-01-01\main.cpp(9,22): warning C4101: 'k': unreferenced local variable
+  examples-02-01-01.vcxproj -> D:\Yasin\repositories\happy-codings-examples-c\x64\Debug\examples-02-01-01.exe
